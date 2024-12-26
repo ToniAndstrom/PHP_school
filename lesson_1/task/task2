@@ -1,0 +1,14 @@
+<?php
+$a = 12;
+$b = 70;
+
+$sum = $a + $b;
+$difference = $a - $b;
+$product = $a * $b;
+$quotient = $a / $b;
+$reminder = $a % $b;
+print($sum) . "\n";
+print($difference) . "\n";
+print($product) . "\n";
+print($quotient) . "\n";
+print($reminder) . "\n";

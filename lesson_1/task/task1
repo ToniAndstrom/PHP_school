@@ -1,0 +1,16 @@
+<?php
+//Task – Variables and basic datatypes//
+//•Create a variable named $ageand assign it an integer value//
+//•Create a variable named $nameand assign it a string value//
+//•Create a variable named $isStudentand assign it a booleanvalue//
+//•//se printto print each variable to the console.//
+//•Use the var_dump()function to check the data type of each variable and print the result using print//
+
+$age = 41;
+$name = "Toni";
+$isStudent = true;
+print($age) . "\n";
+print($name);
+print "\n";
+print($isStudent) . "\n";
+print var_dump($age, $name, $isStudent);
